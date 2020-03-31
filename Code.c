@@ -1,4 +1,4 @@
-
+#include<unistd.h>
 #include<stdio.h>
 int main(){
 	printf("1.Best Fit\t2.First Fit\t3.Worst Fit\nEnter your choice... ");
